@@ -9,6 +9,13 @@ Se abre una ventana, se pone el mensaje, esc + ":wq" para salir
 ** git log. Veo la informacion de un commit especifico
 ** git checkout -- <nombreArchivo> -> para volver a un estado anterior, si no se hizo un snapshot
 ** git diff <archivo> -> ve las diferencias
+** git branch. Enlista las ramas
+** git branch <nombre> . Crea una rama
+** git checkout <nombreRama> . ingresa a una nueva rama
+
+-------------------------
+git commit -m "mensaje"
+git add .
 
 
 
