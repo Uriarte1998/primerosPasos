@@ -1,0 +1,8 @@
+** git init inicializa el proyecto en git
+Crea la carpeta .git -> administra los cambios del codigo
+Es una carpeta oculta
+** git status. Sirve para visualizar que archivos estamos trabajando
+
+** git add <nombre> para agregar archivos al area de trabajo 
+ 
+ 
