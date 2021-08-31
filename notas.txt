@@ -6,5 +6,10 @@ Es una carpeta oculta
 ** git add <nombre> para agregar archivos al area de trabajo 
 ** git commit 
 Se abre una ventana, se pone el mensaje, esc + ":wq" para salir 
-** git log. Veo la informacion de un commit especifico 
+** git log. Veo la informacion de un commit especifico
+** git checkout -- <nombreArchivo> -> para volver a un estado anterior, si no se hizo un snapshot
+** git diff <archivo> -> ve las diferencias
+
+
+
  
